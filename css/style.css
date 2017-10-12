@@ -1,0 +1,35 @@
+/* Default */
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+/* Remove Navbar Margin */
+.navbar {
+  margin-bottom: 0;
+}
+
+/* Footer styling */
+.footer {
+  background: #4876ff;
+  padding: 20px;
+  color: #fff;
+}
+
+/* Product Section */
+.Product {
+  margin-top: 2em;
+  background: #333333;
+  padding: 20px;
+  color: #fff;
+}
+
+/* Rounded */
+.rounded {
+  border-radius: 5px;
+}
+
+/* Margin Bottom */
+.margin-bottom {
+  margin-bottom: 2em;
+}
