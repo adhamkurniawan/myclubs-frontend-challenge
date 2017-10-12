@@ -14,7 +14,7 @@ class Product extends Component {
 
           <div className="row">
             <div className="col-md-6">
-              <img src={ProductImage} className="img-responsive rounded"/>
+              <img src={ProductImage} className="img-responsive rounded" alt="Product"/>
             </div>
             <div className="col-md-3">
               <h3>myClub</h3>

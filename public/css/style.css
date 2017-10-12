@@ -28,3 +28,8 @@ html {
 .rounded {
   border-radius: 5px;
 }
+
+/* Margin Bottom */
+.margin-bottom {
+  margin-bottom: 2em;
+}

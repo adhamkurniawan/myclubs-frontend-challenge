@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 
-
 class Banner extends Component {
   render() {
     return (
@@ -10,7 +9,7 @@ class Banner extends Component {
             <h1>Welcome to myClub Sport Centre!</h1>
             <p>We're leading sport centre training course in Vienna and Switzerland.</p>
             <p><strong>Ready to start?</strong></p>
-            <p><a className="btn btn-primary btn-lg" to="" role="button">Get Started Now</a></p>
+            <p><a className="btn btn-primary btn-lg" href="/sport_list" role="button">Get Started Now</a></p>
           </div>
         </div>
       </div>
