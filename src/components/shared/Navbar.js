@@ -13,14 +13,13 @@ class Navbar extends Component {
               <span className="icon-bar"></span>
               <span className="icon-bar"></span>
             </button>
-            <a className="navbar-brand" href="#">MSC</a>
+            <Link className="navbar-brand" to="/">MSC</Link>
           </div>
 
           <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul className="nav navbar-nav">
               <li><Link to="/">Home</Link></li>
               <li><Link to="/sport_list">Sport List</Link></li>
-              <li><Link to="/about">About</Link></li>
             </ul>
           </div>
         </div>
