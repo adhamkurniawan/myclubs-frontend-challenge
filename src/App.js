@@ -13,7 +13,7 @@ class App extends Component {
             <Navbar />
 
             <Route exact path='/' component={Home} />
-            <Route exact path='/sport_list' component={SportList} />
+            <Route path='/sport_list' component={SportList} />
 
             <Footer />
         </div>
